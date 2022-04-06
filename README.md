@@ -2,10 +2,10 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
-![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
+![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux&logoColor=FFF)&nbsp;
+![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFF)&nbsp;
+![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python&logoColor=FFF)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5&logoColor=FFF)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=FFF)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=FFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript&logoColor=FFF)&nbsp;

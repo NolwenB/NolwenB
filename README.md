@@ -17,4 +17,4 @@
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NolwenB&layout=compact&theme=gotham&border_color=2e3440&card_width=250&card_height=250)
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-placeholder@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:placeholder@gmail.com)
+[![linkedin](https://img.shields.io/badge/-Nolwen%20Bachtle-0072b1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nbachtle/)
